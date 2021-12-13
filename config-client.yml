@@ -2,3 +2,5 @@ info:
   profile: default
 encrypt:
   key: didispace
+cl:
+  password: '{cipher}cc083aa585e0dc7106508e91b62ed489f21fb468e483902e001845706bd29069'
